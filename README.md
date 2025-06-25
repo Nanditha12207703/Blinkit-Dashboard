@@ -27,16 +27,16 @@ This project showcases a **sales performance dashboard** built in **Power BI** u
 - **Power BI Desktop**
 - **DAX** for calculated measures and KPIs
 - **Data Modeling** and Relationships
-- **UX/UI Design Principles** for layout and readability
 
 ## 📷 Dashboard Preview
 
-![Blinkit Dashboard](./e91a45a7-da7c-4ccc-9677-29fe4957a415.png)
+![Blinkit Dashboard](https://github.com/Nanditha12207703/Blinkit-Dashboard/blob/main/Screenshot%202025-06-25%20200023.png)
 
 ## 📁 Files Included
 
 - `Blinkit_Sales_Dashboard.pbix` – Power BI Project File
-- `e91a45a7-dashboard-screenshot.png` – Dashboard preview image
+- `Screenshot 2025-06-25 200023.png` – Dashboard preview image
+- Images needed for the visualizations
 - `README.md` – Project documentation
 
 ## 📌 How to Use
@@ -53,9 +53,7 @@ This project showcases a **sales performance dashboard** built in **Power BI** u
 
 Feel free to reach out if you have any questions or feedback. I'm always excited to discuss data visualization, BI tools, and analytics!
 
-**LinkedIn**: [Your LinkedIn URL]  
-**Portfolio**: [Link if you have one]  
-**Email**: [Optional]
+**LinkedIn**: www.linkedin.com/in/gootynanditha 
 
 ---
 
